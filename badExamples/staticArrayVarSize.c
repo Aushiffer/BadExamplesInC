@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 int main() {
-	int size;
+	int size, v[size];
 	scanf("%d", &size);
-	int v[size];
 
 	return 0;
 }
